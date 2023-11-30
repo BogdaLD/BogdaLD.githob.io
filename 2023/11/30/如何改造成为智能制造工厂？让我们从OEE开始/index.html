@@ -20,26 +20,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Pisces","darkmode":true,"version":"8.18.2","exturl":false,"sidebar":{"position":"left","width":300,"display":"always","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="与有肝胆人共事，从无字句处读书">
-<meta property="og:type" content="website">
-<meta property="og:title" content="博格达峰下的赶路人">
-<meta property="og:url" content="http://example.com/index.html">
+    <meta name="description" content="#智能制造的回顾与困惑从德国政府宣布的工业4.0开始算起，新一代工业设施建设也已近10年了。而从计算机集成制造技术进入工厂实践开始，数字化制造或者智能制造的理念的推广可能还要更早，对中国的工厂管理者来说已经不是什么新鲜的概念了。就中国开工建设的“灯塔工厂”数量也是世界之最。所谓“数字孪生”“工业互联网”“IIoT”“人工智能”“SaaS”“PaaS”这些热词，即便是车间的班组长也都有所听闻并不陌生">
+<meta property="og:type" content="article">
+<meta property="og:title" content="如何改造成为智能制造工厂？让我们从OEE开始">
+<meta property="og:url" content="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/index.html">
 <meta property="og:site_name" content="博格达峰下的赶路人">
-<meta property="og:description" content="与有肝胆人共事，从无字句处读书">
+<meta property="og:description" content="#智能制造的回顾与困惑从德国政府宣布的工业4.0开始算起，新一代工业设施建设也已近10年了。而从计算机集成制造技术进入工厂实践开始，数字化制造或者智能制造的理念的推广可能还要更早，对中国的工厂管理者来说已经不是什么新鲜的概念了。就中国开工建设的“灯塔工厂”数量也是世界之最。所谓“数字孪生”“工业互联网”“IIoT”“人工智能”“SaaS”“PaaS”这些热词，即便是车间的班组长也都有所听闻并不陌生">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2023-11-30T08:05:47.000Z">
+<meta property="article:modified_time" content="2023-11-30T15:23:32.109Z">
 <meta property="article:author" content="刘 栋">
-<meta property="article:tag" content="IIoT 工业物联网 工业自动化技术 机器人技术 智能制造">
+<meta property="article:tag" content="智能制造 OEE">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/">
+<link rel="canonical" href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":true,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/","path":"2023/11/30/如何改造成为智能制造工厂？让我们从OEE开始/","title":"如何改造成为智能制造工厂？让我们从OEE开始"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>博格达峰下的赶路人</title>
+<title>如何改造成为智能制造工厂？让我们从OEE开始 | 博格达峰下的赶路人</title>
   
 
 
@@ -73,7 +75,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <h1 class="site-title">博格达峰下的赶路人</h1>
+      <p class="site-title">博格达峰下的赶路人</p>
       <i class="logo-line"></i>
     </a>
       <p class="site-subtitle" itemprop="description">对工业自动化、工业物联网、工业信息技术，以及工业项目管理方法的独立思考</p>
@@ -181,16 +183,17 @@
 
     </div>
 
-    <div class="main-inner index posts-expand">
+    <div class="main-inner post posts-expand">
 
-    
+
+  
 
 
 <div class="post-block">
   
   
 
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -204,13 +207,13 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | 博格达峰下的赶路人">
+      <meta itemprop="name" content="如何改造成为智能制造工厂？让我们从OEE开始 | 博格达峰下的赶路人">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/" class="post-title-link" itemprop="url">如何改造成为智能制造工厂？让我们从OEE开始</a>
-        </h2>
+        <h1 class="post-title" itemprop="name headline">
+          如何改造成为智能制造工厂？让我们从OEE开始
+        </h1>
 
         <div class="post-meta-container">
           <div class="post-meta">
@@ -262,8 +265,7 @@
     
     
     
-    <div class="post-body" itemprop="articleBody">
-          <p>#智能制造的回顾与困惑<br>从德国政府宣布的工业4.0开始算起，新一代工业设施建设也已近10年了。而从计算机集成制造技术进入工厂实践开始，数字化制造或者智能制造的理念的推广可能还要更早，对中国的工厂管理者来说已经不是什么新鲜的概念了。就中国开工建设的“灯塔工厂”数量也是世界之最。所谓“数字孪生”“工业互联网”“IIoT”“人工智能”“SaaS”“PaaS”这些热词，即便是车间的班组长也都有所听闻并不陌生。</p>
+    <div class="post-body" itemprop="articleBody"><p>#智能制造的回顾与困惑<br>从德国政府宣布的工业4.0开始算起，新一代工业设施建设也已近10年了。而从计算机集成制造技术进入工厂实践开始，数字化制造或者智能制造的理念的推广可能还要更早，对中国的工厂管理者来说已经不是什么新鲜的概念了。就中国开工建设的“灯塔工厂”数量也是世界之最。所谓“数字孪生”“工业互联网”“IIoT”“人工智能”“SaaS”“PaaS”这些热词，即便是车间的班组长也都有所听闻并不陌生。</p>
 <p>然而在实践中，除少数行业头部和大型企业以外，更多的中小型企业恐怕并没有真正去考虑建设或者升级成智能制造工厂。<br>成为智能制造企业，可以提高工厂的竞争力，提高生产柔性、降低运营成本，为企业带来更多的收益，难道这些听起来“不香”嘛？香或许是香，但是这些<strong>新建和升级并不是没有代价的</strong>，甚至在等来可见的“收益”前，前期投资已经让不少中小企业不堪重负了。</p>
 <p>面对UNCA时代的挑战，特别是疫情后<strong>全球供应链挑战，制造业转移和回流</strong>，过去以性价比见长的中国制造业特别是中小型制造企业，必须要拥抱数字化与智能化来确保未来的竞争力。</p>
 <p>这样就出现了“进则担负升级改造的高投入风险，退则抱残守缺逐渐丧失竞争力”的两难局面；如何破局？<strong>小步快跑，边走边跑</strong>或许是一个中小企业可取的办法。具体说就先从<strong>简单的、可见的、可迅速</strong>与提高制造效率和收益的项目开始，比如，就可以从<strong>实践OEE的自动可视化</strong>开始……</p>
@@ -308,7 +310,6 @@
 <p>#总结：<br>虽然OEE是个单一的指标，但是对计划进行数字化建设和升级的企业，特别是中小型制造企业，是个非常合适的发起和实现的项目，通过当前IIoT的技术，特别是通过设备互联做到数据自动采集，仅需要有限的投资和部署，就可以为企业带来数字化提升制造效率和运营水平的初期效果。</p>
 <p>hello <a href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/">http://example.com/2023/11/30/如何改造成为智能制造工厂？让我们从OEE开始/</a> bye</p>
 
-      
     </div>
 
     
@@ -316,120 +317,27 @@
     
 
     <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
+          <div class="post-tags">
+              <a href="/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0-OEE/" rel="tag"># 智能制造 OEE</a>
+          </div>
 
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar%20of%20LD.jpg">
-      <meta itemprop="name" content="刘 栋">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="博格达峰下的赶路人">
-      <meta itemprop="description" content="与有肝胆人共事，从无字句处读书">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | 博格达峰下的赶路人">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/" class="post-title-link" itemprop="url">发刊感想</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2023-11-29 17:59:06" itemprop="dateCreated datePublished" datetime="2023-11-29T17:59:06+08:00">2023-11-29</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-11-30 11:43:50" itemprop="dateModified" datetime="2023-11-30T11:43:50+08:00">2023-11-30</time>
-    </span>
-
-  
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Changyan：</span>
-    
-    <a title="发刊感想" href="/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/#SOHUCS" itemprop="discussionUrl">
-      <span id="sourceId::3e30047beda970dc6502ce2483f8988b" class="cy_cmt_count" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="本文字数">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">本文字数：</span>
-      <span>652</span>
-    </span>
-    <span class="post-meta-item" title="阅读时长">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">阅读时长 &asymp;</span>
-      <span>2 分钟</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>参加工作以来我就认为，只有终身学习才是职业发展的根本动力，为此不断的工作和生活中参加各种学习活动，自己电脑中的各种材料（电子书、白皮书……）加起来也几十个G了，但是后来发现自己沉迷于“厚积”，却忘了“博发”。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
-      
-    </div>
+  <div class="social-like a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a>
+      <a class="a2a_button_linkedin"></a>
+      <a class="a2a_button_wechat"></a>
+      <a class="a2a_button_qzone"></a>
+  </div>
 
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/" rel="prev" title="发刊感想">
+                  <i class="fa fa-angle-left"></i> 发刊感想
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
     </footer>
   </article>
 </div>
@@ -438,6 +346,8 @@
 
 
 
+
+    <div class="comments" id="SOHUCS" sid="65968caa52fea70cd92ca60f235f9ef8"></div>
 </div>
   </main>
 

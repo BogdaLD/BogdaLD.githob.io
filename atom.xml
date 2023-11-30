@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>博格达峰下的赶路人</title>
+  
+  <subtitle>对工业自动化、工业物联网、工业信息技术，以及工业项目管理方法的独立思考</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-30T15:23:32.109Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>刘 栋</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何改造成为智能制造工厂？让我们从OEE开始</title>
+    <link href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/"/>
+    <id>http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/</id>
+    <published>2023-11-30T08:05:47.000Z</published>
+    <updated>2023-11-30T15:23:32.109Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#智能制造的回顾与困惑&lt;br&gt;从德国政府宣布的工业4.0开始算起，新一代工业设施建设也已近10年了。而从计算机集成制造技术进入工厂实践开始，数字化制造或者智能制造的理念的推广可能还要更早，对中国的工厂管理者来说已经不是什么新鲜的概念了。就中国开工建设的“灯塔工厂”数量也是世</summary>
+      
+    
+    
+    
+    
+    <category term="智能制造 OEE" scheme="http://example.com/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0-OEE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>发刊感想</title>
+    <link href="http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/"/>
+    <id>http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/</id>
+    <published>2023-11-29T09:59:06.000Z</published>
+    <updated>2023-11-30T03:43:50.542Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;参加工作以来我就认为，只有终身学习才是职业发展的根本动力，为此不断的工作和生活中参加各种学习活动，自己电脑中的各种材料（电子书、白皮书……）加起来也几十个G了，但是后来发现自己沉迷于“厚积”，却忘了“博发”。</summary>
+    
+    
+    
+    
+    <category term="发刊词" scheme="http://example.com/tags/%E5%8F%91%E5%88%8A%E8%AF%8D/"/>
+    
+  </entry>
+  
+</feed>
