@@ -12,10 +12,23 @@
 <h1 id="一点期望"><a href="#一点期望" class="headerlink" title="一点期望"></a>一点期望</h1><p>其实搭建这个博客实际上还是花了一些时间，由于不想在传统的CMD中进行写作，所以在学习了几篇帖子以后，决心自己搭建这个博客，到底是岁数大了，还是有些费劲。不过总算折腾出来了</p>
 <p>其实我的写作能力一般，文辞能力也不是很优美，只能想办法把文章内容做到精致，所以博客中的文章可能会反复更新修改。<br>除了文中引用的观点，自己也会对技术趋势做些判断和思考。这些思考或许不一定正确，但是如果有朋友能给我提出指正，那我会诚挚感谢，并愿意深入学习和研究。</p>
 <p>或许，也会有朋友可以通过我的文章后，想和我合作一些项目，那也许会成为我以后发博的第四动机和成长动力吧。</p>
-<p>hello <a href="http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/">http://example.com/2023/11/29/发刊感想/</a> bye</p>
+<p>hello <a href="http://bogdatech.cn/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/">http://bogdatech.cn/2023/11/29/发刊感想/</a> bye</p>
 ]]></content>
       <tags>
         <tag>发刊词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自动添加章节</title>
+    <url>/2023/12/06/%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%AB%A0%E8%8A%82/</url>
+    <content><![CDATA[<h1 id="shdiasodfalsk"><a href="#shdiasodfalsk" class="headerlink" title="shdiasodfalsk"></a>shdiasodfalsk</h1><h2 id="ashfdasdfjhaslk"><a href="#ashfdasdfjhaslk" class="headerlink" title="ashfdasdfjhaslk"></a>ashfdasdfjhaslk</h2><h2 id="sahdfqsiaiofwoijd"><a href="#sahdfqsiaiofwoijd" class="headerlink" title="sahdfqsiaiofwoijd"></a>sahdfqsiaiofwoijd</h2><h3 id="ashdfqwjfdaliw"><a href="#ashdfqwjfdaliw" class="headerlink" title="ashdfqwjfdaliw"></a>ashdfqwjfdaliw</h3><h1 id="salkfjasljdlfa"><a href="#salkfjasljdlfa" class="headerlink" title="salkfjasljdlfa"></a>salkfjasljdlfa</h1><h2 id="撒；东方巨龙"><a href="#撒；东方巨龙" class="headerlink" title="撒；东方巨龙"></a>撒；东方巨龙</h2><p>##safjdaslkdjf</p>
+<p>hello <a href="http://bogdatech.cn/2023/12/06/%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%AB%A0%E8%8A%82/">http://bogdatech.cn/2023/12/06/自动添加章节/</a> bye</p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>
@@ -64,7 +77,7 @@
 <li>OEE的目标仅仅与时考察单台设备的运行指标，且如前文所讲还是一个滞后指标，随着AI技术的发展和IIoT技术的进步，特别是预测性维护技术的发展，正如有的文章指出的那样，OEE的重要作用将让位于设备健康值，即在数字化运营特别是MES（MOM）的优化后，设备“借故偷懒”的机会已经不多了，只要设备健康就可以持续产生收益。此时OEE可能仅成为一项设备是否需要投资的参考最低阀值。</li>
 </ol>
 <h1 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h1><p>虽然OEE是个单一的指标，但是对计划进行数字化建设和升级的企业，特别是中小型制造企业，是个非常合适的发起和实现的项目，通过当前IIoT的技术，特别是通过设备互联做到数据自动采集，仅需要有限的投资和部署，就可以为企业带来数字化提升制造效率和运营水平的初期效果。</p>
-<p>hello <a href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/">http://example.com/2023/11/30/如何改造成为智能制造工厂？让我们从OEE开始/</a> bye</p>
+<p>hello <a href="http://bogdatech.cn/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/">http://bogdatech.cn/2023/11/30/如何改造成为智能制造工厂？让我们从OEE开始/</a> bye</p>
 ]]></content>
       <tags>
         <tag>智能制造 OEE</tag>

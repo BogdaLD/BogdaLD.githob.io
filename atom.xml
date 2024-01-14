@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>博格达峰下的赶路人</title>
   
-  <subtitle>对工业自动化、工业物联网、工业信息技术，以及工业项目管理方法的独立思考</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>工业自动化、工业物联网、工业信息技术，工业项目管理方法及产品管理</subtitle>
+  <link href="http://bogdatech.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-11-30T15:35:25.833Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://bogdatech.cn/"/>
+  <updated>2023-12-06T02:10:47.290Z</updated>
+  <id>http://bogdatech.cn/</id>
   
   <author>
     <name>刘 栋</name>
@@ -17,9 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>自动添加章节</title>
+    <link href="http://bogdatech.cn/2023/12/06/%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%AB%A0%E8%8A%82/"/>
+    <id>http://bogdatech.cn/2023/12/06/%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%AB%A0%E8%8A%82/</id>
+    <published>2023-12-06T01:17:53.000Z</published>
+    <updated>2023-12-06T02:10:47.290Z</updated>
+    
+    
+    <summary type="html">这是一个用来测试的帖子</summary>
+    
+    
+    
+    <category term="test" scheme="http://bogdatech.cn/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://bogdatech.cn/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何改造成为智能制造工厂？让我们从OEE开始</title>
-    <link href="http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/"/>
-    <id>http://example.com/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/</id>
+    <link href="http://bogdatech.cn/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/"/>
+    <id>http://bogdatech.cn/2023/11/30/%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%BA%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82%EF%BC%9F%E8%AE%A9%E6%88%91%E4%BB%AC%E4%BB%8EOEE%E5%BC%80%E5%A7%8B/</id>
     <published>2023-11-30T08:05:47.000Z</published>
     <updated>2023-11-30T15:35:25.833Z</updated>
     
@@ -29,14 +48,14 @@
     
     
     
-    <category term="智能制造 OEE" scheme="http://example.com/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0-OEE/"/>
+    <category term="智能制造 OEE" scheme="http://bogdatech.cn/tags/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0-OEE/"/>
     
   </entry>
   
   <entry>
     <title>发刊感想</title>
-    <link href="http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/"/>
-    <id>http://example.com/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/</id>
+    <link href="http://bogdatech.cn/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/"/>
+    <id>http://bogdatech.cn/2023/11/29/%E5%8F%91%E5%88%8A%E6%84%9F%E6%83%B3/</id>
     <published>2023-11-29T09:59:06.000Z</published>
     <updated>2023-11-30T15:53:42.221Z</updated>
     
@@ -46,7 +65,7 @@
     
     
     
-    <category term="发刊词" scheme="http://example.com/tags/%E5%8F%91%E5%88%8A%E8%AF%8D/"/>
+    <category term="发刊词" scheme="http://bogdatech.cn/tags/%E5%8F%91%E5%88%8A%E8%AF%8D/"/>
     
   </entry>
   
